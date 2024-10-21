@@ -1,5 +1,15 @@
-## Hi there 👋
+## Olá! Eu sou o Eduardo Macedo! 👋
 
+<div style="display: inline_block">
+ <h3>Rank in Code Wars!</h3>
+ <img align="center" alt="Eduardo-Node" height="100" width="420" src='https://www.codewars.com/users/dudmacedo/badges/large'>
+</div>
+
+<div> 
+  <a href="https://github.com/dudmacedo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudmacedo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudmacedo&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 <!--
 **dudmacedo/dudmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
